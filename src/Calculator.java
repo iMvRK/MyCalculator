@@ -4,6 +4,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
+@SuppressWarnings("serial")
 public class Calculator extends JFrame {
 
 	private final CalculatorDisplay display;
